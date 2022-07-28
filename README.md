@@ -1,4 +1,6 @@
-# ComposeCounter
+# ComposeCounter-Flow-MVVM
+
+Jetpack Composeで状態管理にStateFlowを使ったMVVMアーキテクチャのサンプル
 
 [Jetpack Composeを使用したMVVMアーキテクチャの最小実装サンプル](https://zenn.dev/hiroa365/articles/4d9154ba4fa85c)
 
